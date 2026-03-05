@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Bachelor’s graduate in Digital Communication with a focus on frontend development, user experience, and interactive data visualization.
+Bachelor’s graduate in Computer Science for Digital Communication with a focus on frontend development, user experience, and interactive data visualization.
 
 I enjoy designing and building intuitive interfaces that help users explore complex information. My projects combine web technologies such as JavaScript, HTML, and CSS with data visualization and usability principles.
 
